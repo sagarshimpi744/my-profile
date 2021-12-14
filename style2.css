@@ -1,0 +1,121 @@
+#heading{
+    height: 60px;
+    background-color:rgb(182, 179, 179);
+    color:black;
+    font-weight: bold;
+    font-size: 30px;
+}
+#LOGO{
+    position: absolute;
+   
+   margin-top:1%
+}
+#social{
+        float: right;
+    
+}
+.slogo{
+    height: 50px;
+    width: 50px;
+    float: right;
+    margin-top:5px;
+}
+#listing{
+  
+    height: 600px;
+    width: 80%;
+   
+    margin-left: 10%;
+    margin-top: 5%;background-color:grey
+}
+#filter{
+    height: 500px;
+    width:  30%;
+    margin-top:4%;
+    
+    float: left;
+    color:aliceblue;
+    
+
+
+
+}
+#container{
+    height: 600px;
+    width:  55%;
+    float: right;
+   
+   
+
+}
+#header{
+   height: 60px;
+  
+   font-weight: bold;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   margin-left: 10%;
+   font-size:40px;
+   
+   width:70%
+   
+}
+
+.tile{
+    height:225px;
+   
+    margin-top: 2%;
+    box-shadow: 10px ;
+}
+.tilecomp1{
+    height:225px;
+    width: 40%;
+    float:left
+}
+.tilecomp1>img{
+    height:225px;
+    width:100%
+}
+.filter{
+    height:50px;
+    color:black;
+    font-weight: bold;
+    font-size:30px;
+    text-align: center;
+   
+}
+.types{
+    height:200px; 
+    width:50%;
+    margin-left:25% ;
+    
+    margin-top: 6;
+    background-color:black
+}
+.tilecomp2{
+    font-weight: bold;
+    height:225px;
+    width: 60%;
+
+    line-height: .80;
+    color:white;
+    background-color:black;
+    float:left;
+    
+
+}
+.types{
+    text-align: center
+
+
+}
+#head{
+    font-weight: bold;
+    margin-left: 10%;
+    font-size:20px;
+    background-color:rgb(167, 166, 166);
+    color:white;
+    width:50%
+}
+.content{
+    margin-left:5
+}
